@@ -1,6 +1,6 @@
 # CMakeLists.txt at root
 set(COMPONENT_SRCS
-    "led/sensor.c"
+    "led/led.c"
 )
 
 set(COMPONENT_ADD_INCLUDEDIRS
